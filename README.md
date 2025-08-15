@@ -1,5 +1,11 @@
 # 2D Gravity Simulation
 
+
+
+https://github.com/user-attachments/assets/8afd471c-9224-4225-9143-8c4eb7511c5b
+
+
+
 A real-time 2D gravitational physics simulation written in C using Raylib. The simulation demonstrates orbital mechanics with both unequal mass systems (planet-star) and equal mass binary systems.
 
 ## Features
